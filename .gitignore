@@ -2,11 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-login_credentials.py
-
 
 # C extensions
 *.so
+
+# hidden password
+login_credentials.py
 
 # Distribution / packaging
 .Python
