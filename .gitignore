@@ -1,3 +1,6 @@
+# hidden password
+login_credentials.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,8 +11,7 @@ __pycache__/
 # C extensions
 *.so
 
-# hidden password
-login_credentials.py
+
 
 # Distribution / packaging
 .Python
