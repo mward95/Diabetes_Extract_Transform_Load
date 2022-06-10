@@ -1,6 +1,7 @@
 # Team_project_2
 
 √ Proposal cites at least two sources of data
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 √ Proposal includes the type of final production database to load the data into (relational or non-relational)
 
