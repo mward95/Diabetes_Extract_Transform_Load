@@ -1,5 +1,4 @@
 # Team_project_2
-       hi
 √ Proposal cites at least two sources of data
 
 √ Proposal includes the type of final production database to load the data into (relational or non-relational)
