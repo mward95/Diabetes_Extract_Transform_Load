@@ -67,4 +67,4 @@ https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 https://www.kaggle.com/datasets/mohammadanas4321/diabetes-dataset
 
 ## Badges
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mward95/Team_project_2/blob/main/MIT%20License/MIT%20License.txt)
