@@ -11,17 +11,19 @@ We worked on merging an excel and csv file together on diabetes data. We made su
 - [Transform](#transform)
 - [Load](#load)
 - [Credits](#credits)
-- [License](#license)
+- [Badges](#badges)
 ## Installation
 
 To be able to run the jupyter notebook you will need the following imports
--Matplotlib
--Numpy
--Pandas
--Scipy.stats
--Seaborn
--Sqlachemy
-You will need to created a login_credentials.py folder for your username and password to be able to connect to the SQL from jupyter notebook
+
+- Matplotlib
+- Numpy
+- Pandas
+- Scipy.stats
+- Seaborn
+- Sqlachemy
+
+A login_credentials.py folder will need to be created for your username and password to be able to connect to the SQL from jupyter notebook
 
 ## Usage
 To be able to use the heatmap in the jupyter notebook you will first need to create a pairwise correlation from the dataframe then use the seaborn dependency (sns.heatmap) to create a heatmap.
